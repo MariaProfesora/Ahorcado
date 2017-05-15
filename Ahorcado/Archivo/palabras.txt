@@ -1,0 +1,10 @@
+﻿Nombre de ciclo;DAM
+Provincia española;Navarra
+Saludo;Adios
+Sustantivo;persona
+Juego;Ahorcado
+Despedida;Hola
+Segundo ciclo informática;Asir
+Barrio de Iruñea;Mendillorri
+Nombre de esta ciudad;Iruñea
+Nombre del pintor;Xabi
