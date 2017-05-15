@@ -8,3 +8,4 @@ Segundo ciclo informática;Asir
 Barrio de Iruñea;Mendillorri
 Nombre de esta ciudad;Iruñea
 Nombre del pintor;Xabi
+Profesor de apoyo;Luis
